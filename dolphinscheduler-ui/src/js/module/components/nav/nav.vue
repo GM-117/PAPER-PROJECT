@@ -488,7 +488,7 @@
         width: 180px;
         height: 46px;
         display: block;
-        background: url("./logo1.png") no-repeat;
+        background: url("./logo.png") no-repeat;
       }
     }
     .nav-box {

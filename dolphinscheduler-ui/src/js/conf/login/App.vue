@@ -166,7 +166,7 @@
         width: 280px;
         height: 60px;
         display: block;
-        background: url("img/login-logo.svg") no-repeat 23px;
+        background: url("img/login.svg") no-repeat -10px;
         margin: 0 auto;
       }
     }

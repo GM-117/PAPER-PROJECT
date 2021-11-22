@@ -32,8 +32,7 @@
         <div class="row" >
           <div class="col-md-6">
             <div class="chart-title">
-              <span>CHANGE!!!!</span>
-              <span>{{$t('Task status statistics')}}222222</span>
+              <span>{{$t('Task status statistics')}}</span>
             </div>
             <div class="row">
               <m-task-ctatus-count :search-params="searchParams">
